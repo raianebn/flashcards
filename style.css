@@ -1,0 +1,10 @@
+ :root{
+    --texto-color: #dbe4ef;
+    --card-front-color: #144480;
+    --card-back-color: #00f4bf;
+ }
+ body{
+    background: url('img/bg-desktop.webp');
+    font-family: 'Bai jamjuree' ,sans-serif;
+    
+ }
